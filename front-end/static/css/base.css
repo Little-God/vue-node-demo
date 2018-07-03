@@ -1,0 +1,13 @@
+ul,li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+@font-face{
+  font-family:'Menksoft2012';
+  src:url('Menksoft2012.ttf');
+}
+.icc{
+  font-family: Menksoft2012;
+  writing-mode: vertical-lr;
+}
